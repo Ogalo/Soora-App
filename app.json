@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "TestProject",
-    "slug": "TestProject",
+    "name": "Soora",
+    "slug": "Soora",
+    "description": "Uniting muslims together for a common goal",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./App/assets/images/contact-icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./App/assets/images/WhatsApp Image 2022-11-14 at 07.50.51.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,7 +23,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./App/assets/images/contact-icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
